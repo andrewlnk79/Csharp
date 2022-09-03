@@ -1,0 +1,15 @@
+C:\1\cSharp\homework7\homework7\bin\Debug\net6.0\homework7.exe
+C:\1\cSharp\homework7\homework7\bin\Debug\net6.0\homework7.deps.json
+C:\1\cSharp\homework7\homework7\bin\Debug\net6.0\homework7.runtimeconfig.json
+C:\1\cSharp\homework7\homework7\bin\Debug\net6.0\homework7.dll
+C:\1\cSharp\homework7\homework7\bin\Debug\net6.0\homework7.pdb
+C:\1\cSharp\homework7\homework7\obj\Debug\net6.0\homework7.csproj.AssemblyReference.cache
+C:\1\cSharp\homework7\homework7\obj\Debug\net6.0\homework7.GeneratedMSBuildEditorConfig.editorconfig
+C:\1\cSharp\homework7\homework7\obj\Debug\net6.0\homework7.AssemblyInfoInputs.cache
+C:\1\cSharp\homework7\homework7\obj\Debug\net6.0\homework7.AssemblyInfo.cs
+C:\1\cSharp\homework7\homework7\obj\Debug\net6.0\homework7.csproj.CoreCompileInputs.cache
+C:\1\cSharp\homework7\homework7\obj\Debug\net6.0\homework7.dll
+C:\1\cSharp\homework7\homework7\obj\Debug\net6.0\refint\homework7.dll
+C:\1\cSharp\homework7\homework7\obj\Debug\net6.0\homework7.pdb
+C:\1\cSharp\homework7\homework7\obj\Debug\net6.0\homework7.genruntimeconfig.cache
+C:\1\cSharp\homework7\homework7\obj\Debug\net6.0\ref\homework7.dll
