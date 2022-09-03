@@ -24,7 +24,7 @@
             {
                 for (int j = 0; j < n; j++)
                 {
-                    array[i, j] = new Random().NextDouble() * 10 - 5;
+                    array[i, j] = new Random().NextDouble() * 100;
                 }
             }
         }
