@@ -1,6 +1,6 @@
-﻿Console.Write("Введите m: ");
+﻿Console.Write("Введите строки m: ");
 int m = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите n: ");
+Console.Write("Введите столбцы n: ");
 int n = Convert.ToInt32(Console.ReadLine());
 
 Console.Clear();
